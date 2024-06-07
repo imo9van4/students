@@ -4,14 +4,33 @@
     background-repeat: no-repeat;
     height: 640px;
     margin-top: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
 }
-
+.sub{
+  color: white;
+}
 .cards {
   width: 1000px;
   margin-top: 80px;
   margin-left: 150px;
   padding: 10px;
 }
+
 #input1{
     width: 450px;
+}
+.contact-form{
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+.btn-primary{
+  display: flex;
+  align-content: center;
+}
+.form-control{
+  width: 50%;
 }
