@@ -1,0 +1,17 @@
+.hero {
+    background-image: url(assets/AdobeStock_161691965.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 640px;
+    margin-top: 40px;
+}
+
+.cards {
+  width: 1000px;
+  margin-top: 80px;
+  margin-left: 150px;
+  padding: 10px;
+}
+#input1{
+    width: 450px;
+}
